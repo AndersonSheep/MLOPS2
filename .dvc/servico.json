@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projetodvc",
+  "private_key_id": "9627c5cf9fa53a56e88072310c8e359b1c929330",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnXnZR1CbcHgKt\n2ALfK04t+9Ywe9k6gjEQB1J/hX4RmDblHKAi9sazm5jRyBn3VpYi787RaF901Ba0\nYYw5vOXbv/GvXwpLXZXr2YIGVC0wvXZI/9nAyalOb8c6x/RZ8xdfhHNx3/3tuUOK\nyuw+MjzmfUBwTD7E8huhLD21zM/HtolS63MT4vNThrttGR/uLl6o1q1Rh7gAd9E6\nVgQEzJeoIbSu8+GKp2zGroSTME1kQVvkpytw11niF7zlhR/6nfhbNB0uCIajQ2v2\nuOF3CrA40La315FI4jhi1w17ILA32t+ZUFuAv7Gnx857z07GPxkRQjzhUoWWXKNL\nfWwKmla9AgMBAAECggEAAJnPF7qpiV70VwaeZlssXklZspdAvl8twWYMOJPvIViH\nM+fNbjHEV/LGB6jU1q5XB7ynMzqpHqPUPUUbS7G8Z9asvVZ2VQyi6zxFY/kNqY6C\nVszZZ9OrqNklXU9grkSFy9rd7rrfDUTWpQVSPPAs7HLWJW0VjEeEaAym9y7nR1DI\npOEoaRoxN8ypY4cdS9dLggVKpjMrEB9Dovg1nFhT/VdNnupZ8qwe2U3125jluzZD\n+zvEFExeb0bcQOjul4sXfGLFKBHw0Oyx06TIzL7nuF5FLeZCVa4vAt9CZwa/4wKO\n5UK59O2qJ9Nq/necRiTJXSGzxf7aTYPOqRe2oW995QKBgQDgy+H3IiR/hPIDqL/p\nEwVhkFMv6hwsKu8m5tl4sKgMkbS6JmkH9bs7bkxwKMLzlAHC3dCTAiskIdQQVxA6\nlymKMqapnbHfxLqLzsjUUbBUrmhRNr89AyzEjKaN8Yka4QEMCHhWF6Hmfi81FzvJ\nAHgwxzciYMvlcJgDW9B/z5cTlwKBgQC+mebnYzdVLl2KtWafUZ/+xQ5MMlDHhF6B\nkGxiiRVp6/KJUapCy9XQqEmTIT1ijviaMwc4vZyVWm2ZH+IqTFABVyzl47/z0kmM\nnscuKqNgNxuNFqu4eKUf1HsvpiOy+Q5qEeUEXVIJVgfflH7wUiUy0R2udAqubPEQ\nUJD0u+JiywKBgQCx1BeZbMT6q6zYADJwqr9jAs0L5mMK/ZvaZlw7AWSvLMSPTbtg\ntJ+8z/Bf+Z7fGYKbKOXKpbiDCM+9bWJFNzeBP7hgDYOcxP/dgWOVslmPY7jaJjj6\nhvxvL+TB/QS84qn1Xu3zDRbiQ4gMs6hzxY9O5wlShMhHZN6cKZGyygF1WQKBgBNN\naLn0LU1eFbEPb+YgkRBvCmSjD9U0zZFXe/J6qYWBlJ1dfN2o4O1xrYnN6vaJPhn3\novqXET162/CO7wuTkOKh3nUlnHHn0PUBu3Asd0EuM4cVTayv4yEXFqabr6/XUyNg\nzo2jmcRCRyfYVQanewbrcJMTQ2WouL0LO7LdOC8DAoGAYPTaT3Mn89SWRwLXIvdP\nz3ZjY72GQU3OLgiYnI+OuNRx79KDvwEN+/Q82ozgp5Usjm2FvZID/rA2tGTfXAQp\nLNPo7Zbj5Bw048qbIgECuvoOezLm38OhjoPy5djFa4gX8npVZJL79VRn8wZ/8O3u\nTALEJzfOl2wmXS+V0UeuWZw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dvc-remote-storage@projetodvc.iam.gserviceaccount.com",
+  "client_id": "109624878157839847092",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dvc-remote-storage%40projetodvc.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

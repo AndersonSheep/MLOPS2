@@ -2,3 +2,6 @@
     remote = gdrive
 ['remote "gdrive"']
     url = gdrive://1glO_S5je9Up47YqsQY74w5eK-LA3JkTi
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = servico.json
+    gdrive_service_account_user_email = dvc-remote-storage@projetodvc.iam.gserviceaccount.com
