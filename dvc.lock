@@ -1,0 +1,19 @@
+schema: '2.0'
+stages:
+  train:
+    cmd: python src/main.py
+    deps:
+    - path: ds
+      hash: md5
+      md5: 884b9a404e0954f1592a23ca797dcee0.dir
+      size: 229065939
+      nfiles: 10019
+    - path: params.yaml
+      hash: md5
+      md5: 5a6dc6669b51c2d40306fdf3185f044b
+      size: 127
+    - path: src
+      hash: md5
+      md5: 18777a929b34385bb1d698ae252d8be5.dir
+      size: 3385
+      nfiles: 1
